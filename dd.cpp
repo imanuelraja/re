@@ -1,9 +1,6 @@
-#include<conio.h>
 #include<iostream.h>
-
 void main() 
 {
-clrscr();
 int a, b, c;
 cout <<"Enter any three numbers: ";
 cin>>a;
